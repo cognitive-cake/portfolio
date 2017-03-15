@@ -3,14 +3,6 @@
  * Copyright 2013-2017 Start Bootstrap
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
  */
-.link-white,
-.link-white:hover,
-.link-white:focus,
-.link-white:active,
-.link-white.active {
-  color: #fff;
-  outline: none;
-}
 body {
   font-family: 'Roboto', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   overflow-x: hidden;
@@ -510,4 +502,18 @@ fieldset[disabled] .btn-success.active {
 .portfolio-modal .modal-backdrop {
   opacity: 0;
   display: none;
+}
+.link-white,
+.link-white:hover,
+.link-white:focus,
+.link-white:active,
+.link-white.active {
+  color: #fff;
+  outline: none;
+}
+.repo-link a path {
+  fill: #000;
+}
+.repo-link a:hover path {
+  fill: #0e2e5d;
 }
