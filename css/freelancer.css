@@ -4,7 +4,7 @@
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
  */
 body {
-  font-family: 'Roboto', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: "Ubuntu", "Helvetica Neue", Helvetica, Arial, sans-serif;
   overflow-x: hidden;
 }
 p {
@@ -27,7 +27,6 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "Ubuntu", "Helvetica Neue", Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   font-weight: 700;
 }
@@ -511,9 +510,33 @@ fieldset[disabled] .btn-success.active {
   color: #fff;
   outline: none;
 }
-.repo-link a path {
+.project-links repo-link {
+  display: inline-block;
+  font-family: "Ubuntu", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 0;
+}
+.project-links repo-link svg {
+  display: inline-block;
+  vertical-align: middle;
+}
+.project-links repo-link path {
   fill: #000;
 }
-.repo-link a:hover path {
-  fill: #0e2e5d;
+.project-links repo-link span {
+  display: inline-block;
+  margin-left: 10px;
+  vertical-align: middle;
+  font-size: 14px;
+}
+.project-links repo-link:hover {
+  text-decoration: none;
+}
+.project-links repo-link:hover path {
+  fill: #18bb9c;
+}
+.project-links repo-link:hover span {
+  text-decoration: underline;
+}
+.project-links gh-pages-link {
+  display: block;
 }

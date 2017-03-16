@@ -7,15 +7,35 @@
 	outline: none;
 }
 
-.repo-link {
-	a {
+.project-links {
+	repo-link {
+		display: inline-block;
+		font-family: "Ubuntu", "Helvetica Neue", Helvetica, Arial, sans-serif;
+		font-size: 0;
+		svg {
+			display: inline-block;
+			vertical-align: middle;
+		}
 		path {
 			fill: #000;
 		}
+		span {
+			display: inline-block;
+			margin-left: 10px;
+			vertical-align: middle;
+			font-size: 14px;
+		}
 		&:hover {
+			text-decoration: none;
 			path {
-				fill: #0e2e5d;
+				fill: @theme-success;
+			}
+			span {
+				text-decoration: underline;
 			}
 		}
+	}
+	gh-pages-link {
+		display: block;
 	}
 }
