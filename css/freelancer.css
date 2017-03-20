@@ -510,33 +510,33 @@ fieldset[disabled] .btn-success.active {
   color: #fff;
   outline: none;
 }
-.project-links repo-link {
-  display: inline-block;
-  font-family: "Ubuntu", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 0;
+.project-links {
+  padding-bottom: 10px;
 }
-.project-links repo-link svg {
+.project-links .repo-link {
+  font-size: 16px;
+}
+.project-links .repo-link svg {
   display: inline-block;
   vertical-align: middle;
 }
-.project-links repo-link path {
+.project-links .repo-link svg path {
   fill: #000;
 }
-.project-links repo-link span {
+.project-links .repo-link span {
   display: inline-block;
-  margin-left: 10px;
+  margin-left: 3px;
   vertical-align: middle;
-  font-size: 14px;
 }
-.project-links repo-link:hover {
+.project-links .repo-link:hover {
   text-decoration: none;
 }
-.project-links repo-link:hover path {
+.project-links .repo-link:hover path {
   fill: #18bb9c;
 }
-.project-links repo-link:hover span {
+.project-links .repo-link:hover span {
   text-decoration: underline;
 }
-.project-links gh-pages-link {
-  display: block;
+.project-links .gh-pages-link {
+  font-size: 16px;
 }
