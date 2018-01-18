@@ -20,7 +20,7 @@
 
     Результат: https://cognitive-cake.github.io/endy/
 
-* #### Учебный проект по в HtmlAcademy: Сервис просмотра изображений.
+* #### Учебный проект по JS в HtmlAcademy: Сервис просмотра изображений.
 
     Только JavaScript
 
@@ -30,7 +30,7 @@
 
     Результат: https://cognitive-cake.github.io/kekstagram/
 
-* #### Учебный проект в HtmlAcademy: Сайт магазина изделий ручной работы.
+* #### Учебный проект по HTML и CSS в HtmlAcademy: Сайт магазина изделий ручной работы.
 
     Только вёрстка.
 
