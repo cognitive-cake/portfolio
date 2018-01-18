@@ -1,8 +1,8 @@
 # Cognitive Cake's portfolio
 
-* #### Самый последний и актуальный мой проект, но он ещё не завершен. Вёрстка на Bootstrap, скрипты на ES6 и использую Babel. 
+* #### Самый последний и актуальный мой проект, ещё не завершен.  
 
-    Вёрстка и JavaScript.
+    Вёрстка и JavaScript. Bootstrap, ES6 и Babel.
 
     https://cognitive-cake.github.io/landing-giant-app/
 
