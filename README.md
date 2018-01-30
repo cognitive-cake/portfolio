@@ -18,7 +18,7 @@
 
     https://cognitive-cake.github.io/landing-giant-app/
 
-* #### Проект Brain Games c [Hexlet.io](Hexlet.io)
+* #### Проект Brain Games c [Hexlet.io](https://hexlet.io)
 
     JavaScript. ES6, Babel, Node.js, NPM.
 
@@ -28,6 +28,7 @@
 
     ```
     Welcome to the Brain Games!
+
     What number is missing in this progression?
 
     May I have your name? John
