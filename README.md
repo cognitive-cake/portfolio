@@ -18,7 +18,7 @@
 
     https://cognitive-cake.github.io/landing-giant-app/
 
-* #### Проект Brain Games c Hexlet.io
+* #### Проект Brain Games c [Hexlet.io](Hexlet.io)
 
     JavaScript. ES6, Babel, Node.js, NPM.
 
