@@ -1,8 +1,8 @@
 # Cognitive Cake's portfolio
 
-### Рабочие проекты
+## Рабочие проекты
 
-* #### Cайт небольшого деревообрабатывающего производства.
+* ### Cайт небольшого деревообрабатывающего производства.
 
     Только вёрстка.
 
@@ -11,18 +11,16 @@
     Страница проекта: https://cognitive-cake.github.io/pictor/  
     Репозиторий: https://github.com/cognitive-cake/pictor
 
-### Личные проекты, учебные проекты
+## Личные проекты, учебные проекты
 
-* #### Текущий проект, ещё не завершен. Вёрстка лендинга с двумя слайдерами и canvas (слайдеры WiP).
+* ### Текущий проект, ещё не завершен. Вёрстка лендинга с двумя слайдерами и canvas (слайдеры WiP).
 
     Вёрстка и JavaScript. Bootstrap, ES6 и Babel.
 
     Страница проекта: https://cognitive-cake.github.io/landing-giant-app/  
     Репозиторий: https://github.com/cognitive-cake/landing-giant-app
 
-    ---
-
-* #### Проект Brain Games c [Hexlet.io](https://hexlet.io)
+* ### Проект Brain Games c [Hexlet.io](https://hexlet.io)
 
     JavaScript. ES6, Babel, Node.js, NPM.
 
@@ -52,18 +50,16 @@
     Страница проекта: https://www.npmjs.com/package/braingames-cake  
     Репозиторий: https://github.com/cognitive-cake/project-lvl1-s220
 
-    ---
 
-* #### Простенький макет с 5-ю брейкпоинтами на флексбоксах
+* ### Простенький макет с 5-ю брейкпоинтами на флексбоксах
 
     Только вёрстка.
 
     Страница проекта: https://cognitive-cake.github.io/simple-adaptive-site/  
     Репозиторий: https://github.com/cognitive-cake/simple-adaptive-site
 
-    ---
 
-* #### Тестовое на JS от одного агентства. Скрипты написаны на ES5, сейчас уже пишу на ES6.
+* ### Тестовое на JS от одного агентства. Скрипты написаны на ES5, сейчас уже пишу на ES6.
 
     Вёрстка и JavaScript.
 
@@ -71,9 +67,8 @@
     Страница проекта: https://cognitive-cake.github.io/endy/  
     Репозиторий: https://github.com/cognitive-cake/endy
 
-    ---
 
-* #### Учебный проект по JS в HtmlAcademy: Сервис просмотра изображений.
+* ### Учебный проект по JS в HtmlAcademy: Сервис просмотра изображений.
 
     Только JavaScript.
 
@@ -83,9 +78,8 @@
     Страница проекта: https://cognitive-cake.github.io/kekstagram/  
     Репозиторий: https://github.com/cognitive-cake/kekstagram
 
-    ---
 
-* #### Учебный проект по HTML и CSS в HtmlAcademy: Сайт магазина изделий ручной работы.
+* ### Учебный проект по HTML и CSS в HtmlAcademy: Сайт магазина изделий ручной работы.
 
     Только вёрстка.
 
