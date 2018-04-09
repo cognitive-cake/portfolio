@@ -37,7 +37,8 @@
     Пример использования:
 
     ```
-    > $ gendiff before.json after.json                            {
+    > $ gendiff before.json after.json                            
+    {
         host: hexlet.io
       + timeout: 20
       - timeout: 50
