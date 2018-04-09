@@ -20,11 +20,41 @@
     Страница проекта: https://cognitive-cake.github.io/landing-giant-app/  
     Репозиторий: https://github.com/cognitive-cake/landing-giant-app
 
+* ### Проект Вычислитель отличий c [Hexlet.io](https://hexlet.io)
+
+    JavaScript. ES6, Jest, TDD, Babel, Node.js, NPM.
+
+    Проект не завершен до конца.
+
+    В рамках данного проекта необходимо было реализовать утилиту для поиска отличий в конфигурационных файлах.
+
+    Текущие возможности утилиты:
+
+    * Поддержка только плоского json
+    * Генерация отчета в виде json
+    * Возможность использовать утилиту как библиотеку
+
+    Пример использования:
+
+    ```
+    > $ gendiff before.json after.json                            {
+        host: hexlet.io
+      + timeout: 20
+      - timeout: 50
+      - proxy: 123.234.53.22
+      + verbose: true
+    }
+    ```
+
+    Страница проекта: https://www.npmjs.com/package/gendiff-cake  
+    Репозиторий: https://github.com/cognitive-cake/project-lvl2-s233    
+
 * ### Проект Brain Games c [Hexlet.io](https://hexlet.io)
 
     JavaScript. ES6, Babel, Node.js, NPM.
 
     В рамках проекта необходимо было реализовать набор мини-игр, запускаемых из консоли. Эти игры похожи на то, что обычно называют "Brain Games".  
+
     Пример игры:
 
     ```
