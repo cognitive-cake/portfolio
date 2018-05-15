@@ -13,20 +13,18 @@
 
 ## Личные проекты, учебные проекты
 
-* ### Текущий проект, ещё не завершен. Вёрстка лендинга с двумя слайдерами и canvas (слайдеры WiP).
+* ### Личный проект, работаю над ним в свободное время. Вёрстка лендинга с двумя слайдерами и canvas (слайдеры WiP).
 
     Вёрстка и JavaScript. Bootstrap, ES6 и Babel.
 
     * [Страница проекта](https://cognitive-cake.github.io/landing-giant-app/)   
     * [Репозиторий](https://github.com/cognitive-cake/landing-giant-app)
 
-* ### Проект Вычислитель отличий c [Hexlet.io](https://hexlet.io)
+* ### Учебный проект - Вычислитель отличий c [Hexlet.io](https://hexlet.io). Работаю над ним в данный момент.
 
     JavaScript. ES6, Jest, TDD, Babel, Node.js, NPM.
 
-    Проект не завершен до конца.
-
-    В рамках данного проекта необходимо было реализовать утилиту для поиска отличий в конфигурационных файлах.
+    В рамках данного проекта необходимо реализовать утилиту для поиска отличий в конфигурационных файлах.
 
     Текущие возможности утилиты:
 
@@ -48,7 +46,7 @@
     ```
 
     * [Страница проекта](https://www.npmjs.com/package/gendiff-cake)
-    * [Репозиторий](https://github.com/cognitive-cake/project-lvl2-s233)    
+    * [Репозиторий](https://github.com/cognitive-cake/project-lvl2-s257)    
 
 * ### Проект Brain Games c [Hexlet.io](https://hexlet.io)
 
