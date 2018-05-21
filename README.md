@@ -28,20 +28,38 @@
 
     Текущие возможности утилиты:
 
-    * Поддержка только плоских json, yaml, ini
-    * Генерация отчета в виде json
+    * Поддержка как плоских, так и вложенных json, yaml, ini
+    * Генерация pretty-отчёта
     * Возможность использовать утилиту как библиотеку
 
     Пример использования:
 
     ```
     > $ gendiff before.json after.json                            
-    {
-        host: hexlet.io
-      + timeout: 20
-      - timeout: 50
-      - proxy: 123.234.53.22
-      + verbose: true
+    common: {
+        setting1: Value 1
+      - setting2: 200
+      + setting3: {
+            key: value
+        }
+      - setting3: true
+        setting6: {
+            key: value
+          + ops: vops
+        }
+      + setting4: blah blah
+      + setting5: {
+            key5: value5
+        }
+    }
+    group1: {
+      + baz: bars
+      - baz: bas
+        foo: bar
+      + nest: str
+      - nest: {
+            key: value
+        }
     }
     ```
 
