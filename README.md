@@ -20,9 +20,9 @@
     * [Страница проекта](https://cognitive-cake.github.io/landing-giant-app/)   
     * [Репозиторий](https://github.com/cognitive-cake/landing-giant-app)
 
-* ### Учебный проект - Вычислитель отличий c [Hexlet.io](https://hexlet.io). Работаю над ним в данный момент.
+* ### NPM-пакет "Вычислитель отличий" (проект с [Hexlet.io](https://hexlet.io)).
 
-    JavaScript. ES6, Jest, TDD, Babel, Node.js, NPM.
+    JavaScript. ES6, Babel, Node.js, NPM, Jest, TDD, CI.
 
     В рамках данного проекта необходимо реализовать утилиту для поиска отличий в конфигурационных файлах.
 
@@ -30,7 +30,7 @@
 
     * Поддержка как плоских, так и вложенных json, yaml, ini
     * Генерация pretty-отчёта
-    * Возможность использовать утилиту как библиотеку
+    * Возможность использовать пакет как библиотеку
 
     Пример использования:
 
@@ -66,7 +66,7 @@
     * [Страница проекта](https://www.npmjs.com/package/gendiff-cake)
     * [Репозиторий](https://github.com/cognitive-cake/project-lvl2-s257)    
 
-* ### Проект Brain Games c [Hexlet.io](https://hexlet.io)
+* ### NPM-пакет Brain Games (проект с [Hexlet.io](https://hexlet.io)).
 
     JavaScript. ES6, Babel, Node.js, NPM.
 
