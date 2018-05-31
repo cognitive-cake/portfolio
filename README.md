@@ -108,15 +108,6 @@
     * [Репозиторий](https://github.com/cognitive-cake/simple-adaptive-site)
 
 
-* ### Тестовое на JS от одного агентства. Скрипты написаны на ES5, сейчас уже пишу на ES6.
-
-    Вёрстка и JavaScript.
-
-    * [Техническое задание](https://github.com/cognitive-cake/endy/blob/master/README.md)  
-    * [Страница проекта](https://cognitive-cake.github.io/endy/)
-    * [Репозиторий](https://github.com/cognitive-cake/endy)
-
-
 * ### Учебный проект по JS в HtmlAcademy: Сервис просмотра изображений.
 
     Только JavaScript.
