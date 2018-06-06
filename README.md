@@ -66,7 +66,7 @@
     ```
 
     * [Страница проекта](https://www.npmjs.com/package/gendiff-cake)
-    * [Репозиторий](https://github.com/cognitive-cake/project-lvl2-s257)    
+    * [Репозиторий](https://github.com/cognitive-cake/project-lvl2-s269)    
 
 * ### NPM-пакет Brain Games (проект с [Hexlet.io](https://hexlet.io)).
 
