@@ -1,37 +1,20 @@
 # Cognitive Cake's portfolio
 
-## Рабочие проекты
-
-* ### Cайт небольшого деревообрабатывающего производства.
-
-    Адаптивная вёрстка.
-
-    Переписывание сайта с Wix на Bootstrap.
-Проект не был принят заказчиком. Под конец проекта заказчик решил сделать редизайн и мой рефакторинг оказался не нужен.
-
-
-    * [Страница проекта](https://cognitive-cake.github.io/pictor/)  
-    * [Репозиторий](https://github.com/cognitive-cake/pictor)
+## Коммерческие проекты
+    Отсутствуют
 
 ## Личные проекты, учебные проекты
 
-* ### Личный проект, работаю над ним в свободное время. Вёрстка лендинга с двумя слайдерами и canvas (слайдеры ещё не завершены).
+* ### CLI-приложение "Вычислитель отличий".
 
-    Вёрстка и JavaScript. Bootstrap, ES6 и Babel.
-
-    * [Страница проекта](https://cognitive-cake.github.io/landing-giant-app/)   
-    * [Репозиторий](https://github.com/cognitive-cake/landing-giant-app)
-
-* ### NPM-пакет "Вычислитель отличий" (проект с [Hexlet.io](https://hexlet.io)).
-
-    JavaScript. ES6, Babel, Node.js, NPM, Jest, TDD, CI.
-
-    В рамках данного проекта необходимо было реализовать утилиту для поиска отличий в конфигурационных файлах.
+    JavaScript ES6, Babel, Jest, TDD, CI, ООП, функциональное программирование.
+    
+    Утилита для поиска отличий в конфигурационных файлах.
 
     Текущие возможности утилиты:
 
-    * Поддержка как плоских, так и вложенных json, yaml, ini
-    * Генерация отчёта в виде Pretty, Plain, Json
+    * Принимаемые форматы - json, yaml, ini
+    * Генерация отчёта в виде pretty, plain, json
     * Возможность использовать пакет как библиотеку
 
     Пример использования:
@@ -68,7 +51,14 @@
     * [Страница проекта](https://www.npmjs.com/package/gendiff-cake)
     * [Репозиторий](https://github.com/cognitive-cake/project-lvl2-s269)    
 
-* ### NPM-пакет Brain Games (проект с [Hexlet.io](https://hexlet.io)).
+* ### Вёрстка лендинга с двумя слайдерами и canvas (слайдеры ещё не завершены).
+
+    Вёрстка и JavaScript. Bootstrap, ES6 и Babel.
+
+    * [Страница проекта](https://cognitive-cake.github.io/landing-giant-app/)   
+    * [Репозиторий](https://github.com/cognitive-cake/landing-giant-app)
+
+* ### CLI-приложение Brain Games.
 
     JavaScript. ES6, Babel, Node.js, NPM.
 
@@ -99,7 +89,6 @@
     * [Страница проекта](https://www.npmjs.com/package/braingames-cake) 
     * [Репозиторий](https://github.com/cognitive-cake/project-lvl1-s220)
 
-
 * ### Простенький макет с 5-ю брейкпоинтами на флексбоксах
 
     Только вёрстка.
@@ -107,6 +96,14 @@
     * [Страница проекта](https://cognitive-cake.github.io/simple-adaptive-site/)  
     * [Репозиторий](https://github.com/cognitive-cake/simple-adaptive-site)
 
+* ### Cайт небольшого деревообрабатывающего производства.
+
+    Адаптивная вёрстка.
+
+    Переписывание сайта с Wix на Bootstrap.
+
+    * [Страница проекта](https://cognitive-cake.github.io/pictor/)  
+    * [Репозиторий](https://github.com/cognitive-cake/pictor)
 
 * ### Учебный проект по JS в HtmlAcademy: Сервис просмотра изображений.
 
