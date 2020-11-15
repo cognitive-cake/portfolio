@@ -48,7 +48,7 @@
     * [Страница проекта](https://www.npmjs.com/package/gendiff-cake)
     * [Репозиторий](https://github.com/cognitive-cake/project-lvl2-s269)    
 
-* ### Вёрстка лендинга с двумя слайдерами и canvas (слайдеры ещё не завершены).
+* ### Вёрстка лендинга с двумя слайдерами и canvas.
 
     Вёрстка и JavaScript. Bootstrap, ES6 и Babel.
 
